@@ -1,0 +1,30 @@
+body{
+    background:coral;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 50px;
+}
+h1{
+    color: black;
+    font-family: fantasy;
+}
+
+h2{
+    color: black;
+    font-family: fantasy;
+}
+
+img{
+    margin-bottom: 20px;
+}
+p{
+    color: black;
+    font-size: 15px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
